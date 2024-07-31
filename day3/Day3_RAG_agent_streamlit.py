@@ -318,3 +318,4 @@ def main():
 
 
 main()
+# 실행 방법: 터미널에 streamlit run Day3_RAG_agent_streamlit.py 입력
